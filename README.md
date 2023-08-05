@@ -18,9 +18,13 @@ Parking Execution: The car autonomously maneuvers into the parking space, ensuri
 Feedback and Monitoring: Throughout the parking process, the system continuously monitors the surroundings and adjusts the car's movements if necessary.
 
 It's important to note that this is a high-level overview, and implementing a fully functional AI-enabled car parking system involves more detailed steps and considerations, such as fine-tuning the object detection models, handling different parking scenarios, and ensuring robustness and safety in real-world conditions.
-<s1>Fisrt Interface</s1>
-![Screenshot page Interface](https://github.com/Kazer01/AI-Enabled-Car-Parking-Using-Open-CV/assets/140815273/2a71b514-fd91-43b4-93a2-fccd7534ed9c)
+
+<h4>Fisrt Interface</h4>
+
+![Screenshot page Interface](https://github.com/Kazer01/AI-Enabled-Car-Parking-Using-Open-CV/assets/140815273/751061cd-9507-49ee-b792-d65355e2364e)
+
 <s1>Login Interface</s1>
+
 ![Screenshot Login Interface](https://github.com/Kazer01/AI-Enabled-Car-Parking-Using-Open-CV/assets/140815273/6c6f8501-2e1d-46ab-ae38-3238e6c3491d)
 <s1>About Interface</s1>
 ![Screenshot About Interface](https://github.com/Kazer01/AI-Enabled-Car-Parking-Using-Open-CV/assets/140815273/33984cb5-ceb8-4055-9133-39e07774f6b0)
