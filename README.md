@@ -19,16 +19,20 @@ Feedback and Monitoring: Throughout the parking process, the system continuously
 
 It's important to note that this is a high-level overview, and implementing a fully functional AI-enabled car parking system involves more detailed steps and considerations, such as fine-tuning the object detection models, handling different parking scenarios, and ensuring robustness and safety in real-world conditions.
 
-<h4>Fisrt Interface</h4>
+<h3>Fisrt Interface</h3>
 
 ![Screenshot page Interface](https://github.com/Kazer01/AI-Enabled-Car-Parking-Using-Open-CV/assets/140815273/751061cd-9507-49ee-b792-d65355e2364e)
 
-<s1>Login Interface</s1>
+<h3>Login Interface</h3>
 
 ![Screenshot Login Interface](https://github.com/Kazer01/AI-Enabled-Car-Parking-Using-Open-CV/assets/140815273/6c6f8501-2e1d-46ab-ae38-3238e6c3491d)
-<s1>About Interface</s1>
+
+<h3>About Interface</h3>
+
 ![Screenshot About Interface](https://github.com/Kazer01/AI-Enabled-Car-Parking-Using-Open-CV/assets/140815273/33984cb5-ceb8-4055-9133-39e07774f6b0)
-<s1>Parking Slot Check</s1>
+
+<h3>Parking Slot Check</h3>
+
 ![Screenshot ParkSlot Check](https://github.com/Kazer01/AI-Enabled-Car-Parking-Using-Open-CV/assets/140815273/0c8073d3-01b8-4aa1-b973-7f68c12ee38a)
 
 
