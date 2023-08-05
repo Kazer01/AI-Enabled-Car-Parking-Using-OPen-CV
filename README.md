@@ -1,1 +1,1 @@
-# AI-Enabled-Car-Parking-Using-OPen-CV
+# AI-Enabled-Car-Parking-Using-Open-CV
