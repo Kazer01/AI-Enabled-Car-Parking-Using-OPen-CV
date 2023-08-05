@@ -18,12 +18,14 @@ Parking Execution: The car autonomously maneuvers into the parking space, ensuri
 Feedback and Monitoring: Throughout the parking process, the system continuously monitors the surroundings and adjusts the car's movements if necessary.
 
 It's important to note that this is a high-level overview, and implementing a fully functional AI-enabled car parking system involves more detailed steps and considerations, such as fine-tuning the object detection models, handling different parking scenarios, and ensuring robustness and safety in real-world conditions.
-
-![Screenshot About Interface](https://github.com/Kazer01/AI-Enabled-Car-Parking-Using-Open-CV/assets/140815273/9b7d5c89-00a5-4401-b81f-a7eb882abf63)
-![Screenshot Login Interface](https://github.com/Kazer01/AI-Enabled-Car-Parking-Using-Open-CV/assets/140815273/ce882837-031f-4afb-9042-ff8da1e70e25)
-![Screenshot page Interface](https://github.com/Kazer01/AI-Enabled-Car-Parking-Using-Open-CV/assets/140815273/9421d551-6b7c-4a62-a264-2574e8b01ffa)
-![Screenshot ParkSlot Check](https://github.com/Kazer01/AI-Enabled-Car-Parking-Using-Open-CV/assets/140815273/e20fd8e5-c933-4635-b1cc-827ebcac32cb)
-
+<s1>Fisrt Interface</s1>
+![Screenshot page Interface](https://github.com/Kazer01/AI-Enabled-Car-Parking-Using-Open-CV/assets/140815273/2a71b514-fd91-43b4-93a2-fccd7534ed9c)
+<s1>Login Interface</s1>
+![Screenshot Login Interface](https://github.com/Kazer01/AI-Enabled-Car-Parking-Using-Open-CV/assets/140815273/6c6f8501-2e1d-46ab-ae38-3238e6c3491d)
+<s1>About Interface</s1>
+![Screenshot About Interface](https://github.com/Kazer01/AI-Enabled-Car-Parking-Using-Open-CV/assets/140815273/33984cb5-ceb8-4055-9133-39e07774f6b0)
+<s1>Parking Slot Check</s1>
+![Screenshot ParkSlot Check](https://github.com/Kazer01/AI-Enabled-Car-Parking-Using-Open-CV/assets/140815273/0c8073d3-01b8-4aa1-b973-7f68c12ee38a)
 
 
 
